@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6af431587248ea64b9a3d1a0c5c76bbb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PK Lampang
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a384fd712ba93c44683d77573eb0c166, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
